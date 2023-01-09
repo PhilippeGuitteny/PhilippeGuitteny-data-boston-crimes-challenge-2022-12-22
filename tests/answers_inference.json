@@ -1,0 +1,7 @@
+{
+    "MEDIAN_AGE": "\npositive\n",
+    "T_STAT": "\ncoeff = 2252.7344\nstd_err = 1237.522\nt= coeff/std_err = 1.820\n",
+    "P_VALUE": "\nthe p-value is a bit too high to be statistically significant both at 95% or 90% confidence level\n",
+    "INCREASE": "\n    While keeping other regressors constant, the number of incidents decrease by 2115 by increasing the families with a married couple by 1%\n",
+    "LIMITATIONS": "\nour model is likely overfitting since we have very few data ( 11 districts only) to train it\n"
+}
